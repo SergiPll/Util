@@ -1,0 +1,2 @@
+composer install
+Cuando se crea el composer.json, es necesario ejecutar ese comando.
