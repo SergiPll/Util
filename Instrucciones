@@ -4,3 +4,5 @@ Cuando se crea el composer.json, es necesario ejecutar ese comando.
 cd public
 php -S localhost:8000
 Comandos necesarios para poder hacer la conexión a la base de datos y verlo en el navegador en la dirección "localhost:8000"
+
+CUIDADO CON LOS NOMBRES, revisar que concuerde todo. Métodos... Nombres de clases....
