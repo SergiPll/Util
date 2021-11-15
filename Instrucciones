@@ -1,11 +1,23 @@
+git config --global user.name myusername
+git config --global user.email myemail
+git config --global github.user myusername
+git config --global github.token mytoken
+
+Comandos para enlazar Git y Github
+
+
 composer install
 Cuando se crea el composer.json, es necesario ejecutar ese comando.
 
+
 cd public
 php -S localhost:8000
-Comandos necesarios para poder hacer la conexión a la base de datos y verlo en el navegador en la dirección "localhost:8000"
+Comandos necesarios para poder hacer la conexión a la base de datos y verlo en el 
+navegador en la dirección "localhost:8000"
+
 
 CUIDADO CON LOS NOMBRES, revisar que concuerde todo. Métodos... Nombres de clases....
 
 
-Es posible que en el examen se cambien los parametros que se relacionen con el "DbConfig.json", de forma que se tendrá que revisar para saber que nombre poner en el DbConfig.
+Es posible que en el examen se cambien los parametros que se relacionen con el "DbConfig.json", de 
+forma que se tendrá que revisar para saber que nombre poner en el DbConfig.
