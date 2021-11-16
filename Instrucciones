@@ -1,7 +1,10 @@
 git config --global user.name myusername
 git config --global user.email myemail
 git config --global github.user myusername
-git config --global github.token mytoken
+git config --global github.token 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
+( Token valido para usar hasta el 16/12/2021 )
+
+
 
 Comandos para enlazar Git y Github
 
