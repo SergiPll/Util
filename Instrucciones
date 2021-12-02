@@ -1,8 +1,7 @@
 git config --global user.name myusername
 git config --global user.email myemail
 git config --global github.user myusername
-git config --global github.token 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
-( Token valido para usar hasta el 16/12/2021 )
+git config --global github.token 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
 
 
 
