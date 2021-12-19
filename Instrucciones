@@ -1,7 +1,7 @@
 git config --global user.name myusername
 git config --global user.email myemail
 git config --global github.user myusername
-git config --global github.token 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
+git config --global github.token TOKEN
 
 
 
